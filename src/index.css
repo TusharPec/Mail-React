@@ -52,3 +52,14 @@ margin-left: 10px;
   padding-left: 25%;
 
 }
+.line-clamp {
+  width: 400px;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.cursor-pointer{
+  cursor: pointer;
+}
